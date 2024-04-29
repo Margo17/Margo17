@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Angular%20%7C%20TypeScript-white" alt="Frontend" />
   <img src="https://img.shields.io/badge/Backend-ASP.NetCore%20%7C%20CSharp-black" alt="Backend" />
-  <img src="https://img.shields.io/badge/Testing-xUnit%20%7C%20ReactTestingLibrary%20%7C%20UX-yellow" alt="Testing" />
+  <img src="https://img.shields.io/badge/Testing-xUnit%20%7C%20ReactTestingLibrary%20%7C%20-yellow" alt="Testing" />
 </p>
 
 <!-- About Me -->
