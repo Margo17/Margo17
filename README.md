@@ -10,14 +10,14 @@
 <!-- About Me -->
 ## 🌟 About Me
 
-I'm Martynas G., a Fullstack Software Engineer (yes - I'm a certified electronics engineer with a passion for web tech) from <img src="https://flagsapi.com/LT/shiny/64.png" width="13"/> <b>Lithuania, Kaunas</b>. I thrive on challenges, being also committed to clean code and well-designed application architecture. Be sure that I can deliver great value to any project or team.
+I'm Martynas Goberis, a Fullstack Software Engineer (yes - I'm a certified electronics engineer with a passion for web tech) from <img src="https://flagsapi.com/LT/shiny/64.png" width="13"/> <b>Lithuania, Kaunas</b>. I thrive on challenges, being also committed to clean code and well-designed application architecture. Be sure that I can deliver great value to any project or team.
 
 ## 💡 Expertise:
 - **Programming Languages**: C#, Typescript, JavaScript, SQL
 - **Frontend Development**: React, Next.js, Angular
 - **Backend Development**: ASP.Net Core, EF ORM, nHibernate
 - **Databases**: MSSQL, MongoDB, PostgreSQL
-- **Testing Tools**: React Testing Library (for React frontend unit testing), xUnit (for ASP.Net Core backend unit testing)
+- **Testing Tools**: React Testing Library, xUnit
 
 <!-- Projects -->
 ## 🛠️ Featured Projects
