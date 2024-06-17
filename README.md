@@ -39,7 +39,7 @@ I've put my engineering best into all of my work, maintained high quality standa
 <!-- Fun Facts -->
 ## 🌟 Fun Facts
 
-- 🧑‍💻 I live and breathe software development and would consider myself an expert in web technologies.
+- 🧑‍💻 I live and breathe software development and specialize in web technologies.
 - 🥋 Love folding people in half in my free time while training Brazilian Jiu-Jitsu!
 - 🏎️ Rally racing is unbelievable, those guys are amazing and I love to watch WRC competitions and highlights while also abusing my own racing simulator.
 
